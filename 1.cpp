@@ -16,4 +16,5 @@ int main(){
 	cout << "hello,world" << endl;
     int a, b ,c;
     double e, f;
+    int num = a + b;
 }
